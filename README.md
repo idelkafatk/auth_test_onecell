@@ -1,13 +1,8 @@
-<details>
-    <summary><h4>Баг-репорты</h4></summary>
+# Тестовое задание <a href="https://dev1.onecell.ru/"><img width="10%" href title="OneCell" src="img/logo/onecell.svg"></a>
 
-* <details>
-    <summary><h4>Баг-репорт 1</h4></summary>
+# <a id="stack">Инструменты</a>
 
-  * | LEFT | CENTER | RIGHT |
-    |----------------|:---------:|----------------:|
-    | По левому краю | По центру | По правому краю |
-    | текст | текст | текст |
-
- </details>
-</details>
+<p  align="center">
+  <code><img width="5%" title="Google Sheets" src="img/logo/google_sheets.svg"></code>
+  <code><img width="5%" title="Brain" src="images/logo/brain.png"></code>
+</p>
