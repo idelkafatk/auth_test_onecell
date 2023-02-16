@@ -42,8 +42,6 @@
   <code><img width="5.5%" title="Brain" src="img/logo/brain.png"></code>
 </p>
 
-[Вернуться наверх ⬆](#lift)
-
 # <a id="sheets">Решение</a>
 
 > Решение доступно в [Google Sheets](https://docs.google.com/spreadsheets/d/121ekFlx99Qs6NY9MyzqWRxpv_489Qrb1gMzEWK9RGps/edit?usp=sharing)
