@@ -1,4 +1,4 @@
-# Тестовое задание <a href="https://dev1.onecell.ru/"><img width="10%" href title="OneCell" src="img/logo/onecell.svg"></a>
+# Тестовое задание <a href="https://dev1.onecell.ru/"><img width="20%" href title="OneCell" src="img/logo/onecell.svg"></a>
 
 # <a id="stack">Инструменты</a>
 
