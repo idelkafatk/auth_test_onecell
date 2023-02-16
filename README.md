@@ -41,7 +41,7 @@
   <code><img width="5%" title="Chrome" src="img/logo/chrome.png"></code>
   <code><img width="3.5%" title="Google Sheets" src="img/logo/google_sheets.png"></code>
   <code><img width="5.5%" title="Brain" src="img/logo/brain.png"></code>
-  <code><img width="5%" title="Jmeter" src="img/logo/jmeter.png"></code>
+  <code><img width="3%" title="Jmeter" src="img/logo/jmeter.png"></code>
 </p>
 
 # <a id="sheets">Решение</a>
@@ -137,7 +137,7 @@
 
 [Вернуться наверх ⬆](#lift)
 
-# <a id="jmeter">Нагрузочное тестирование с помощью Jmeter</a><img width="5%" title="Jmeter" src="img/logo/jmeter.png">
+# <a id="jmeter">Нагрузочное тестирование с помощью Jmeter</a><img width="3%" title="Jmeter" src="img/logo/jmeter.png">
 
 Вспомнил, что разговаривали насчет нагрузочного тестирования на собеседовании. Решил попробовать. В общем сделал 1000
 запросов за 2 секунды. Надеюсь все правильно сделал 😃
