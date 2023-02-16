@@ -39,7 +39,7 @@
 
 <p  align="center">
   <code><img width="5%" title="Chrome" src="img/logo/chrome.png"></code>
-  <code><img width="3%" title="Google Sheets" src="img/logo/google_sheets.png"></code>
+  <code><img width="3.5%" title="Google Sheets" src="img/logo/google_sheets.png"></code>
   <code><img width="5%" title="Brain" src="img/logo/brain.png"></code>
 </p>
 
